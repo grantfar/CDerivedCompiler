@@ -1,0 +1,19 @@
+section .data
+	.text
+	.char_wformat: .string "%c\n"
+	.int_wformat: .string "%d\n"
+	.float_wformat: .string "%f\n"
+	.str_wformat: .string "%s\n"
+	.char_rformat: .string "%c"
+	.int_rformat: .string "%d"
+	.float_rformat: .string "%f"
+section .bss
+	.comm i, 4, 4
+
+	.comm j, 4, 4
+
+	.comm k, 4, 4
+
+	.comm l, 4, 4
+
+section .text

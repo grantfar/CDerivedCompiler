@@ -1,0 +1,9 @@
+Author: Grant Farnsworth
+Class: Compilers
+Date: 9/27/2021
+
+##Program Requirements:
+This program requires maven to compile and java version 11 to run
+
+##Directions:
+Open a terminal in the base of this project. To compile run the compile bash script. To run the program execute the run bash script
